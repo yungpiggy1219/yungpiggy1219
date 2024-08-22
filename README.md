@@ -1,2 +1,2 @@
-## Hello, I'm YungChu 👋
-## I'm a UX Engineer.
+## Hello, My name is YungChu 👋
+## and I'm a UX Engineer.
